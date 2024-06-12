@@ -31,7 +31,7 @@
   <samp>
     <a href="https://github.com/Isaiiasjr/Isaiiasjr">* GitHub *</a>
     <br>
-    「 Sou um estudante de programação em pyhton <b>Brasil</b> 」
+    * Sou um estudante de programação em pyhton <b>Brasil</b>*
     <br>
     <br>
   </samp>
